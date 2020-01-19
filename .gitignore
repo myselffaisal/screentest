@@ -1,0 +1,6 @@
+exe1wordcount/vendor/
+exe2excelcolumnfinder/vendor/
+exe3gomongocrud/pkg/
+exe3gomongocrud/bin/
+exe3gomongocrud/github.com/
+exe3gomongocrud/gopkg.in/
